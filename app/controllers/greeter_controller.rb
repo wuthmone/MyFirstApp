@@ -1,4 +1,4 @@
-class GreeterController < ApplicationController
+      class GreeterController < ApplicationController
   def hello
   	random_names = ["Wut", "Hmone", "Hnin", "Hlaing"]
   	@name = random_names.sample
